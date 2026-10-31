@@ -6,12 +6,12 @@ body {
 .about-box h2 {
     font-family: "Poppins", sans-serif;
     text-align:center;
-    color: #1b3465;
+    color: #0e2554;
 }
 
 /*Bagian latar*/
 #about {
-    background-image: url("../assets/images/latar.jpg");
+    background-image: url("../assets/images/landscape.jpg");
     background-size: cover;
     background-position: center;
     padding: 60px 20px;
